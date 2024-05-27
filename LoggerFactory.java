@@ -1,9 +1,5 @@
 package TRABPOO;
 
-import logging.Logger;
-import logging.LoggerConsole;
-import logging.LoggerFile;
-
 public class LoggerFactory {
     public static Logger onConsole() {
         return new LoggerConsole();
