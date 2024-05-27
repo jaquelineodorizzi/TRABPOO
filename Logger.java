@@ -1,6 +1,5 @@
-package logging;
+package TRABPOO;
 
-import utils.Level;
 
 public interface Logger {
     
