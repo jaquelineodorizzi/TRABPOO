@@ -1,7 +1,4 @@
-package Main;
-
-import logging.Logger;
-import utils.Level;
+package TRABPOO;
 
 public class Main {
     public static void main(String[] args) {
