@@ -1,4 +1,4 @@
-package Main;
+package TRABPOO;
 
 import logging.Logger;
 import logging.LoggerConsole;
